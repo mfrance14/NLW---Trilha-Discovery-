@@ -27,7 +27,7 @@
     box-sizing: border-box; /*ele é o conteudo da caixa*/
 }
 html, body{
-    height: 100vw; /*poe a pg como se fosse em 100 pedacinhos de altura*/
+    height: 100vh; /*poe a pg como se fosse em 100 pedacinhos de altura*/
 }
 body,input,button,textarea{
     font: 500 1.6rem Poppins;
